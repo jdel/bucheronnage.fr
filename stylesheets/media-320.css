@@ -1,0 +1,43 @@
+.bois-background,
+.exploitation-background,
+.travaux-background,
+.contact-background {
+	-webkit-background-size: auto 100%;
+	-moz-background-size: auto 100%;
+	-ms-background-size: aut	o 100%;
+	-o-background-size: auto 100%;
+	background-size: auto 100%;
+	background-position: center top;
+	background-repeat: no-repeat;
+	height: 100%;
+	padding-bottom: 50px;
+	padding-top: 20px;
+}
+.sloganbox {
+	font-size: 14px;
+	margin-top: 33%;
+}
+.text {
+	font-size: 17px;
+	line-height: 1.7em;
+}
+.heading {
+	font-size: 18px;
+}
+.subtitle {
+    font-size: 14px;
+    color: #222;
+	margin-top: 1em;
+	margin-bottom: 1em;
+    line-height: 1.3em;
+}
+.headingbox {
+	padding-top: 85px;
+	margin-bottom: -85px;
+}
+.gallery {
+    width: 100%;
+}
+.gallery img {
+    margin: 2px;
+}

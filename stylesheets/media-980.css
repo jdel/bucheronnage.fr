@@ -1,0 +1,13 @@
+.topmenu { display: none }
+.topmenu ul { display: none }
+.singlecolumn { 
+	width: 90%;
+}
+.text {
+    font-size: 24px;
+    line-height: 2em;
+}
+.headingbox {
+	padding-top: 85px;
+	margin-bottom: -85px;
+}
