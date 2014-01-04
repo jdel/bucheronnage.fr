@@ -129,21 +129,32 @@ p {
 	margin-bottom: 1em;
     line-height: 1.3em;
 }
+
 .gallery {
-    width: 80%;
+    width: 50%;
     margin: auto;
     margin-top: 5%;
     text-align: center;
 }
+
 .gallery img {
     margin: 5px;
     border-radius: 5px;
+}
+
+#media .youtube {
+	text-align: center;
 }
 .singlecolumn {
     width: 70%;
     margin: auto;
     margin-top: 3em;
 }
+
+.bois_buche, .bois_buche p {
+	text-align: center;
+}
+
 .background {
     background-image: url(../img/backgrounds/accueil.jpg);
     width: 100%;
